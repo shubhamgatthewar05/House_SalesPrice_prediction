@@ -1,0 +1,22 @@
+
+```
+numpy
+pandas
+scikit-learn
+```
+
+This file specifies the dependencies required to run your project. Make sure to include it in your project directory. Here's how you can create and use the `requirements.txt` file:
+
+1. Create a file named `requirements.txt` in your project directory.
+2. Add the following content to the file:
+    ```
+    numpy
+    pandas
+    scikit-learn
+    ```
+3. To install the required libraries, use the following command:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+This will ensure that all the necessary dependencies are installed in your Python environment.
